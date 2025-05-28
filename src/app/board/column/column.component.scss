@@ -1,0 +1,17 @@
+.board__column {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+  background-color: rgba(241, 245, 249, 1);
+  border-radius: 6px;
+
+  padding: 12px;
+
+
+  hr {
+    margin: 10px 0;
+    border-color: rgb(51, 65, 85, .3);
+  }
+
+}
+.board__title {
+  color: rgb(51, 65, 85, 1);
+}
